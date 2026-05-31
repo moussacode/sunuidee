@@ -95,7 +95,7 @@ SunuIdee/
 ├── script.js
 ├── style.css
 ├── README.md
-└── assets/
+
 ```
 
 ---
@@ -105,7 +105,7 @@ SunuIdee/
 Cloner le projet :
 
 ```bash
-git clone https://github.com/votre-compte/sunuidee.git
+git clone https://github.com/moussacode/sunuidee.git
 ```
 
 Entrer dans le dossier :
