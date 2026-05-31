@@ -130,7 +130,7 @@ Application disponible ici :
 
 👉 **Lien de déploiement :**
 
-https://sunuidee.vercel.app/
+https://votre-lien.vercel.app
 
 ---
 
